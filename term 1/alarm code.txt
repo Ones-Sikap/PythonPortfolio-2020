@@ -1,0 +1,4 @@
+this is my alarm code it shows west standared time and you are able to set a alarm on it
+to set an alarm you will se a variable that is "a" it looks like this
+a=str(0)+":"+str(00)+":"+str(0)+"AM"
+you set what time you want it to beep and it will beep what ever time you set it for
